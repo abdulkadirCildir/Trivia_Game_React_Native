@@ -1,2 +1,2 @@
-# Couner_React-Native
-That is a simple counter that is created with React-Native
+# Trivia_Game-Native
+That is a trivia game app, is created with React-Native.
